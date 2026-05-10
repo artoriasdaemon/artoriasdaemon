@@ -1,7 +1,7 @@
 <img src = "https://i.pinimg.com/1200x/58/c7/81/58c7813614181d2a9b4123b7ffbbc04b.jpg" align="center"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="(https://steamcommunity.com/id/vmpireebites/)" target="_blank">
