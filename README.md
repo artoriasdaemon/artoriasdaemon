@@ -4,7 +4,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="(https://steamcommunity.com/id/vmpireebites/)" target="_blank">
+  <a href="https://steamcommunity.com/id/vmpireebites/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
