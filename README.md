@@ -1,4 +1,4 @@
-<img src = "https://pin.it/6msCpQOuw" align="center"/>
+<img align="center" src = "https://i.pinimg.com/originals/40/aa/c6/40aac6e40b16413fb6f0a253fa54e00b.gif" />
 
 <p align="center">
   <a href="#" target="_blank">
